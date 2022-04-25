@@ -27,5 +27,5 @@ int main()
 		printf("Result=Fail\n");
 	}
 	else
-		printf("wrong mark entried");
+		printf("WRONG MARK ENTERED");
 }
